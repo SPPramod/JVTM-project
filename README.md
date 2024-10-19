@@ -1,2 +1,4 @@
 <h1>Dual Battery System in EV</h1>
+The principle underlying our innovative dual-battery electric vehicle (EV) system is to ensure uninterrupted power supply, enhance range, and optimize sustainability. The system employs a sophisticated control mechanism that monitors the charge levels of both batteries. When one battery depletes, the system swiftly and seamlessly switches to the fully charged battery, eliminating the need for manual intervention. This process ensures uninterrupted EV operation, reducing range anxiety and increasing confidence in electric mobility. By extending the range and usability of EVs, our principle contributes to sustainable transportation and environmental preservation. Additionally, it underscores the importance of advanced technology to make electric vehicles more practical, efficient, and accessible for a wider audience.
 
+![IMG_20240216_205540](https://github.com/user-attachments/assets/84c4c162-4e69-4539-af49-f9bb1390c168)
